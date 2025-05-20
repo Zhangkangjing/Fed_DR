@@ -14,10 +14,13 @@ This project implements federated learning for diabetic retinopathy (DR) classif
 
 ## 📁 Project Structure
 Fed_DR/
+
 ├── client.py # Client-side training logic
+
 ├── server.py # Federated aggregation and coordination
+
 ├── datasets.py # Data loading and preprocessing
-├── README.md # Project description
+
 
 
 ## 🚀 How to Run
